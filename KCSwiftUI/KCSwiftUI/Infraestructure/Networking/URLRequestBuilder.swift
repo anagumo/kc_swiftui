@@ -35,7 +35,7 @@ final class URLRequestBuilder {
             urlRequest.httpMethod = URLRequestComponents.httpMethod.rawValue
             urlRequest.allHTTPHeaderFields = [
                 "Content-Type": "application/json; charset=utf-8",
-                "Accept": "application/json"
+                "Accept": "*/*"
             ].merging(URLRequestComponents.headers) { $1 }
             
             if let body = URLRequestComponents.body {

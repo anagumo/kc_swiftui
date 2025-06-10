@@ -15,7 +15,7 @@ protocol URLRequestComponents {
 
 // MARK: - Default values for HTTP Request Components
 extension URLRequestComponents {
-    var host: String { "gateway.marvel.com/v1/public" }
+    var host: String { "gateway.marvel.com" }
     var queryParameters: [String : String]? { [:] }
     var headers: [String : String] { [:] }
     var body: Encodable? { nil }

@@ -2,7 +2,7 @@ import Foundation
 
 struct GetCharactersURLRequest: URLRequestComponents {
     typealias Response = MarvelResponse<CharacterDTO>
-    var path: String = "/characters"
+    var path: String = "/v1/public/characters"
     var queryParameters: [String : String]?
     var httpMethod: HTTPMethod = .GET
     

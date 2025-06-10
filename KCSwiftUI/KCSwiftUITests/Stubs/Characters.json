@@ -1,0 +1,1328 @@
+{
+   "code":200,
+   "status":"Ok",
+   "copyright":"© 2025 MARVEL",
+   "attributionText":"Data provided by Marvel. © 2025 MARVEL",
+   "attributionHTML":"<a href=\"http://marvel.com\">Data provided by Marvel. © 2025 MARVEL</a>",
+   "etag":"6cba0931b91ab291c7f76e1e63ead659c9157036",
+   "data":{
+      "offset":0,
+      "limit":20,
+      "total":1564,
+      "count":20,
+      "results":[
+         {
+            "id":1009150,
+            "name":"Agent Zero",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009150",
+            "comics":{
+               "available":29,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009150/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/100853",
+                     "name":"Life of Wolverine Infinity Comic (2022) #6"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18082",
+                     "name":"Weapon X (2002) #2"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18092",
+                     "name":"Weapon X (2002) #3"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18074",
+                     "name":"Weapon X (2002) #12"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/246",
+                     "name":"Weapon X (2002) #13"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/2204",
+                     "name":"Weapon X: Days of Future Now (2005) #1"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/3357",
+                     "name":"WEAPON X: DAYS OF FUTURE NOW (Trade Paperback)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/2324",
+                     "name":"Weapon X: Days of Future Now (2005) #2"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/2438",
+                     "name":"Weapon X: Days of Future Now (2005) #3"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/2439",
+                     "name":"Weapon X: Days of Future Now (2005) #4"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/3016",
+                     "name":"Weapon X: Days of Future Now (2005) #5"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18408",
+                     "name":"Weapon X: The Draft – Agent Zero (2002) #1"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14182",
+                     "name":"Wolverine (1988) #60"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14183",
+                     "name":"Wolverine (1988) #61"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14184",
+                     "name":"Wolverine (1988) #62"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14185",
+                     "name":"Wolverine (1988) #63"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14186",
+                     "name":"Wolverine (1988) #64"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14189",
+                     "name":"Wolverine (1988) #67"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14190",
+                     "name":"Wolverine (1988) #68"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14211",
+                     "name":"Wolverine (1988) #87"
+                  }
+               ],
+               "returned":20
+            },
+            "series":{
+               "available":10,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009150/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/34445",
+                     "name":"Life of Wolverine Infinity Comic (2022)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/543",
+                     "name":"Weapon X (2002 - 2004)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/869",
+                     "name":"Weapon X: Days of Future Now (2005)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1478",
+                     "name":"WEAPON X: DAYS OF FUTURE NOW (2006)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3649",
+                     "name":"Weapon X: The Draft – Agent Zero (2002)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2262",
+                     "name":"Wolverine (1988 - 2003)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/84",
+                     "name":"WOLVERINE/DEADPOOL: WEAPON X (1999)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3643",
+                     "name":"X-Man (1995 - 2000)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2265",
+                     "name":"X-Men (1991 - 2001)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3637",
+                     "name":"X-Men Unlimited (1993 - 2003)"
+                  }
+               ],
+               "returned":10
+            },
+            "stories":{
+               "available":31,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009150/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28706",
+                     "name":"The Hunted Part 2",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28712",
+                     "name":"The Hunted Part 5",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28738",
+                     "name":"The Logan Files Epilogue",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28881",
+                     "name":"Counting Coup",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28883",
+                     "name":"Nightmare Quest!",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28885",
+                     "name":"Reunion!",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28887",
+                     "name":"Bastions of Glory!",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28889",
+                     "name":"What Goes Around...",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28895",
+                     "name":"Valley O' Death",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28897",
+                     "name":"Epsilon Red",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28941",
+                     "name":"Showdown In Lowtown",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29125",
+                     "name":"Last Stand",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29139",
+                     "name":"Over...Again",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38511",
+                     "name":"Second Contact",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38554",
+                     "name":"Among Us--A Sabretooth",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38555",
+                     "name":"The Whispers Scream",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38556",
+                     "name":"Sabretooth Vs. Maverick: Severed Ties",
+                     "type":"pinup"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38650",
+                     "name":"Maverick",
+                     "type":""
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38903",
+                     "name":"Maverick",
+                     "type":""
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/50756",
+                     "name":"WEAPON X (2002) #12",
+                     "type":"cover"
+                  }
+               ],
+               "returned":20
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009150/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/102/agent_zero?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"wiki",
+                  "url":"http://marvel.com/universe/Agent_Zero?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009150/agent_zero?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009203,
+            "name":"Bloodscream",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c7c647c3f069",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009203",
+            "comics":{
+               "available":5,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009203/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14201",
+                     "name":"Wolverine (1988) #78"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14208",
+                     "name":"Wolverine (1988) #84"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14063",
+                     "name":"Wolverine (1988) #123"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18158",
+                     "name":"X-Men Unlimited (1993) #8"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18159",
+                     "name":"X-Men Unlimited (1993) #9"
+                  }
+               ],
+               "returned":5
+            },
+            "series":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009203/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2262",
+                     "name":"Wolverine (1988 - 2003)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3637",
+                     "name":"X-Men Unlimited (1993 - 2003)"
+                  }
+               ],
+               "returned":2
+            },
+            "stories":{
+               "available":6,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009203/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28615",
+                     "name":"Down and Dirty with Roughouse and Bloodscream",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28919",
+                     "name":"Cover #28919",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28934",
+                     "name":"Cover #28934",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38612",
+                     "name":"X-Men Unlimited Sneak Preview",
+                     "type":"pinup"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38613",
+                     "name":"The Heart of Darkness",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38614",
+                     "name":"Horse Latitude",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":6
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009203/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/319/bloodscream?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"wiki",
+                  "url":"http://marvel.com/universe/Bloodscream?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009203/bloodscream?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009206,
+            "name":"Box",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009206",
+            "comics":{
+               "available":7,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009206/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1465",
+                     "name":"Alpha Flight (2004) #10"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1558",
+                     "name":"Alpha Flight (2004) #11"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1647",
+                     "name":"Alpha Flight (2004) #12"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12693",
+                     "name":"Alpha Flight (1983) #32"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12694",
+                     "name":"Alpha Flight (1983) #33"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12716",
+                     "name":"Alpha Flight (1983) #53"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/37491",
+                     "name":"X-MEN: EARTH'S MUTANT HEROES 1 (2010) #1"
+                  }
+               ],
+               "returned":7
+            },
+            "series":{
+               "available":3,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009206/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2116",
+                     "name":"Alpha Flight (1983 - 1994)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/719",
+                     "name":"Alpha Flight (2004 - 2005)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/13492",
+                     "name":"X-MEN: EARTH'S MUTANT HEROES 1 (2010)"
+                  }
+               ],
+               "returned":3
+            },
+            "stories":{
+               "available":10,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009206/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/21220",
+                     "name":"Cover #21220",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/21222",
+                     "name":"Cover #21222",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/21267",
+                     "name":"Cover #21267",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/82977",
+                     "name":"X-Men: Earth's Mutant Heroes #1",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2939",
+                     "name":"Alpha Flight (2004) #10",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2940",
+                     "name":"2 of 4 - Days of Future Present Past Participle",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2941",
+                     "name":"Alpha Flight (2004) #11",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2942",
+                     "name":"3 of 4 - Days of Future Present Past Participle",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2943",
+                     "name":"Alpha Flight (2004) #12",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/2944",
+                     "name":"4 of 4 - Days of Future Present Past Participle",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":10
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009206/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/346/box?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009206/box?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009178,
+            "name":"Beef",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708",
+               "extension":"gif"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009178",
+            "comics":{
+               "available":1,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009178/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13822",
+                     "name":"Uncanny X-Men (1981) #281"
+                  }
+               ],
+               "returned":1
+            },
+            "series":{
+               "available":1,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009178/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2258",
+                     "name":"Uncanny X-Men (1981 - 2011)"
+                  }
+               ],
+               "returned":1
+            },
+            "stories":{
+               "available":1,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009178/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28072",
+                     "name":"Fresh Upstart",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":1
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009178/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/253/beef?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"wiki",
+                  "url":"http://marvel.com/universe/Beef?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009178/beef?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009177,
+            "name":"Bedlam",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009177",
+            "comics":{
+               "available":8,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009177/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/17506",
+                     "name":"Avengers (1998) #24"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/17507",
+                     "name":"Avengers (1998) #25"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/4461",
+                     "name":"AVENGERS ASSEMBLE (Hardcover)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/7452",
+                     "name":"Cable (1993) #73"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/7457",
+                     "name":"Cable (1993) #78"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/10519",
+                     "name":"Peter Parker: Spider-Man (1999) #11"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18639",
+                     "name":"Thor (1998) #17"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/20913",
+                     "name":"X-MEN VS. APOCALYPSE: THE TWELVE (Trade Paperback)"
+                  }
+               ],
+               "returned":8
+            },
+            "series":{
+               "available":6,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009177/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/354",
+                     "name":"Avengers (1998 - 2004)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1737",
+                     "name":"AVENGERS ASSEMBLE (2006)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1995",
+                     "name":"Cable (1993 - 2002)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2060",
+                     "name":"Peter Parker: Spider-Man (1999 - 2003)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/581",
+                     "name":"Thor (1998 - 2004)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/4020",
+                     "name":"X-MEN VS. APOCALYPSE: THE TWELVE (2008)"
+                  }
+               ],
+               "returned":6
+            },
+            "stories":{
+               "available":7,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009177/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/24332",
+                     "name":"Pestilence!",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/24349",
+                     "name":"I Still Believe I Cannot Be Saved",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/25564",
+                     "name":"An Exemplary Day",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/37370",
+                     "name":"Harsh Judgments",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/37371",
+                     "name":"Avengers (1998) #25",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/37372",
+                     "name":"The Ninth Day",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/39937",
+                     "name":"The Eighth Day Part 1",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":7
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009177/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/252/bedlam?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009177/bedlam?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009176,
+            "name":"Becatron",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009176",
+            "comics":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009176/comics",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "series":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009176/series",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "stories":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009176/stories",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009176/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/251/becatron?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009176/becatron?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009235,
+            "name":"Robin Chapel",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009235",
+            "comics":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009235/comics",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "series":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009235/series",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "stories":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009235/stories",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009235/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/2694/robin_chapel?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009235/robin_chapel?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009173,
+            "name":"Battering Ram",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708",
+               "extension":"gif"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009173",
+            "comics":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009173/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/17961",
+                     "name":"X-Force (1991) #116"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1028",
+                     "name":"X-Force: Famous, Mutant & Mortal (Trade Paperback)"
+                  }
+               ],
+               "returned":2
+            },
+            "series":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009173/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3633",
+                     "name":"X-Force (1991 - 2004)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/88",
+                     "name":"X-Force: Famous, Mutant & Mortal (2003)"
+                  }
+               ],
+               "returned":2
+            },
+            "stories":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009173/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38198",
+                     "name":"Cover #38198",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/38199",
+                     "name":"Exit Wounds",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":2
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009173/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/2687/battering_ram?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"wiki",
+                  "url":"http://marvel.com/universe/Battering_Ram?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009173/battering_ram?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009201,
+            "name":"Blok",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009201",
+            "comics":{
+               "available":6,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009201/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14102",
+                     "name":"Wolverine (1988) #159"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14104",
+                     "name":"Wolverine (1988) #160"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14105",
+                     "name":"Wolverine (1988) #161"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14112",
+                     "name":"Wolverine (1988) #168"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14113",
+                     "name":"Wolverine (1988) #169"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1025",
+                     "name":"WOLVERINE: THE BEST THERE IS (Trade Paperback)"
+                  }
+               ],
+               "returned":6
+            },
+            "series":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009201/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2262",
+                     "name":"Wolverine (1988 - 2003)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/85",
+                     "name":"WOLVERINE: THE BEST THERE IS (1999)"
+                  }
+               ],
+               "returned":2
+            },
+            "stories":{
+               "available":5,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009201/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28696",
+                     "name":"The Best There Is Part 1",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28700",
+                     "name":"The Best There Is Part 2",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28702",
+                     "name":"The Best There Is Part 3",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28716",
+                     "name":"Bloodsport Part 2",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28718",
+                     "name":"Bloodsport Part 3",
+                     "type":"interiorStory"
+                  }
+               ],
+               "returned":5
+            },
+            "events":{
+               "available":0,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009201/events",
+               "items":[
+                  
+               ],
+               "returned":0
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/310/blok?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009201/blok?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         },
+         {
+            "id":1009205,
+            "name":"Boomer",
+            "description":"",
+            "modified":"1970-01-01T00:00:00+0000",
+            "thumbnail":{
+               "path":"http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+               "extension":"jpg"
+            },
+            "resourceURI":"https://gateway.marvel.com/v1/public/characters/1009205",
+            "comics":{
+               "available":62,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009205/comics",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/71963",
+                     "name":"Brute Force (1990) #1"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/71964",
+                     "name":"Brute Force (1990) #2"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/71965",
+                     "name":"Brute Force (1990) #3"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/71966",
+                     "name":"Brute Force (1990) #4"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/7395",
+                     "name":"Cable (1993) #21"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/1672",
+                     "name":"MARVEL WEDDINGS (Trade Paperback)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13835",
+                     "name":"Uncanny X-Men (1981) #294"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13836",
+                     "name":"Uncanny X-Men (1981) #295"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13837",
+                     "name":"Uncanny X-Men (1981) #296"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13845",
+                     "name":"Uncanny X-Men (1981) #304"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13867",
+                     "name":"Uncanny X-Men (1981) #326"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13869",
+                     "name":"Uncanny X-Men (1981) #328"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/13872",
+                     "name":"Uncanny X-Men (1981) #331"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18339",
+                     "name":"What If? (1989) #37"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/18349",
+                     "name":"What If? (1989) #46"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14217",
+                     "name":"Wolverine (1988) #92"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/14218",
+                     "name":"Wolverine (1988) #93"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12306",
+                     "name":"X-Factor (1986) #84"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12307",
+                     "name":"X-Factor (1986) #85"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/comics/12182",
+                     "name":"X-Factor (1986) #106"
+                  }
+               ],
+               "returned":20
+            },
+            "series":{
+               "available":12,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009205/series",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/26238",
+                     "name":"Brute Force (1990)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1995",
+                     "name":"Cable (1993 - 2002)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1430",
+                     "name":"MARVEL WEDDINGS (2005)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2258",
+                     "name":"Uncanny X-Men (1981 - 2011)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3648",
+                     "name":"What If? (1989 - 1998)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2262",
+                     "name":"Wolverine (1988 - 2003)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2098",
+                     "name":"X-Factor (1986 - 1998)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/5068",
+                     "name":"X-FACTOR VISIONARIES: PETER DAVID (2008)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/3633",
+                     "name":"X-Force (1991 - 2004)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2265",
+                     "name":"X-Men (1991 - 2001)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/2102",
+                     "name":"X-MEN PRIME 1 (1995)"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/series/1685",
+                     "name":"X-Men: The Complete Age of Apocalypse Epic Book 4 (2006)"
+                  }
+               ],
+               "returned":12
+            },
+            "stories":{
+               "available":73,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009205/stories",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/22101",
+                     "name":"Phalanx Covenant: Life Signs Part 1",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/22102",
+                     "name":"X-Teams Unite",
+                     "type":"pinup"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/22362",
+                     "name":"Tough Love",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/22364",
+                     "name":"Snikts and Bones",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/24210",
+                     "name":"\"...Our Regularly Scheduled Program...\"",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/24495",
+                     "name":"Racing the Night",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28098",
+                     "name":"Overture",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28100",
+                     "name":"Familiar Refrain",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28102",
+                     "name":"Crescendo",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28118",
+                     "name":"Uncanny X-Men (1963) #304",
+                     "type":"cover"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28119",
+                     "name":"...For What I Have Done",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28166",
+                     "name":"Nature Of Evil",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28170",
+                     "name":"Precipice",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28176",
+                     "name":"The Splinter Of Our Discontent",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28954",
+                     "name":"A Northern Exposure",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/28956",
+                     "name":"Tavern in the Town",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29112",
+                     "name":"I Had a Dream",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29153",
+                     "name":"Fingers on the Trigger",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29155",
+                     "name":"The Camel's Back",
+                     "type":"interiorStory"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/stories/29188",
+                     "name":"X-Men (1991) #30",
+                     "type":"cover"
+                  }
+               ],
+               "returned":20
+            },
+            "events":{
+               "available":2,
+               "collectionURI":"https://gateway.marvel.com/v1/public/characters/1009205/events",
+               "items":[
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/events/227",
+                     "name":"Age of Apocalypse"
+                  },
+                  {
+                     "resourceURI":"https://gateway.marvel.com/v1/public/events/249",
+                     "name":"Fatal Attractions"
+                  }
+               ],
+               "returned":2
+            },
+            "urls":[
+               {
+                  "type":"detail",
+                  "url":"http://marvel.com/characters/2809/boom_boom?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               },
+               {
+                  "type":"comiclink",
+                  "url":"http://marvel.com/comics/characters/1009205/boomer?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+               }
+            ]
+         }
+      ]
+   }
+}
