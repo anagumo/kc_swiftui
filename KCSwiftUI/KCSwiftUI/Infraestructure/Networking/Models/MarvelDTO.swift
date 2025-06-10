@@ -1,11 +1,11 @@
 import Foundation
 
-struct MarvelResult: Decodable {
-    let data: CharacterResult
+struct MarvelResponseDTO<T: Decodable>: Decodable {
+    let data: MarvelDataDTO<T>
 }
 
-struct CharacterResult: Decodable {
-    let results: [CharacterDTO]
+struct MarvelDataDTO<T: Decodable>: Decodable {
+    let results: [T]
 }
 
 struct ThumbnailDTO: Decodable {
