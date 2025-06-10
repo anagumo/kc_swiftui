@@ -39,3 +39,9 @@ final class APISession: APISessionContract {
         }
     }
 }
+
+enum APIConstants {
+    static let ts: String = ""
+    static let publicKey: String = ""
+    static let hash: String = ""
+}
