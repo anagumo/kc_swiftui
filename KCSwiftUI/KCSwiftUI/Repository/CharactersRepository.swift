@@ -6,9 +6,10 @@ protocol CharactersRepositoryProtocol {
 }
 
 final class CharactersRepository: CharactersRepositoryProtocol {
-    private let apiSession: APISession
+    static let shared = CharactersRepository()
+    private let apiSession: APISessionContract
     
-    init(apiSession: APISession) {
+    init(apiSession: APISessionContract = APISession.shared) {
         self.apiSession = apiSession
     }
     

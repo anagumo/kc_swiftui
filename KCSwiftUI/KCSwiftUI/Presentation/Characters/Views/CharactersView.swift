@@ -1,12 +1,32 @@
 import SwiftUI
 
 struct CharactersView: View {
+    @State var charactersViewModel: CharactersViewModel
+   
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-            .background(.marvelError)
+        NavigationStack {
+            switch charactersViewModel.charactersViewState {
+            case .none:
+                Text("Nothing to show")
+            case .loading:
+                LoadingView()
+            case .loaded:
+                Text("Loaded")
+            case .empty:
+                Text("Empty")
+            }
+        }
+        .onAppear {
+            charactersViewModel.load()
+        }
     }
 }
 
 #Preview {
-    CharactersView()
+    CharactersView(
+        charactersViewModel: CharactersViewModel(
+            getCharactersUseCase: GetCharactersUseCase()
+        )
+    )
 }

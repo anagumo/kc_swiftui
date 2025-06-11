@@ -4,7 +4,11 @@ import SwiftUI
 struct KCSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            CharactersView()
+            CharactersView(
+                charactersViewModel: CharactersViewModel(
+                    getCharactersUseCase: GetCharactersUseCase()
+                )
+            )
         }
     }
 }

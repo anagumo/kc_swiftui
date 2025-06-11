@@ -7,7 +7,7 @@ protocol GetCharactersUseCaseProtocol {
 final class GetCharactersUseCase: GetCharactersUseCaseProtocol {
     private let charactersRepository: CharactersRepositoryProtocol
     
-    init(charactersRepository: CharactersRepositoryProtocol) {
+    init(charactersRepository: CharactersRepositoryProtocol = CharactersRepository.shared) {
         self.charactersRepository = charactersRepository
     }
     
