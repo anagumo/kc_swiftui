@@ -1,8 +1,8 @@
 import Foundation
 
 struct SerieDTO: Decodable {
-    let id: String
+    let id: Int
     let title: String
-    let description: String
-    let thumbnail: ThumbnailDTO
+    let description: String?
+    let thumbnail: ThumbnailDTO?
 }

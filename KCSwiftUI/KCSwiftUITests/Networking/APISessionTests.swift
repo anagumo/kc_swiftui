@@ -42,4 +42,30 @@ final class APISessionTests: XCTestCase {
         let firstResult = try XCTUnwrap(characters?.data.results.first)
         XCTAssertEqual(firstResult.name, "Agent Zero")
     }
+    
+    func testGetSeriesURLRequest() async throws {
+        // Given
+        var receivedRequest: URLRequest?
+        MockURLProtocol.requestHandler = { request in
+            receivedRequest = request
+            let url = try XCTUnwrap(request.url)
+            let httpURLResponse = try XCTUnwrap(MockURLProtocol.httpURLResponse(url: url, statusCode: 200))
+            let fileURL = try XCTUnwrap(Bundle(for: APISessionTests.self).url(forResource: "Series", withExtension: "json"))
+            let data = try XCTUnwrap(Data(contentsOf: fileURL))
+            return (httpURLResponse, data)
+        }
+        
+        // When
+        let series = try await sut?.request(
+            GetSeriesURLRequest(characterIdentifier: "1009150")
+        )
+        
+        // Then
+        XCTAssertEqual(receivedRequest?.url?.path(), "/v1/public/series")
+        XCTAssertEqual(receivedRequest?.httpMethod, "GET")
+        XCTAssertNotNil(series)
+        XCTAssertEqual(series?.data.results.count, 10)
+        let firstResult = try XCTUnwrap(series?.data.results.first)
+        XCTAssertEqual(firstResult.title, "Life of Wolverine Infinity Comic (2022)")
+    }
 }

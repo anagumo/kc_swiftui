@@ -1,0 +1,3103 @@
+{
+    "code": 200,
+    "status": "Ok",
+    "copyright": "© 2025 MARVEL",
+    "attributionText": "Data provided by Marvel. © 2025 MARVEL",
+    "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2025 MARVEL</a>",
+    "etag": "9fa4f7f68cd0d44817c88e3472ee9e156752b6a3",
+    "data": {
+        "offset": 0,
+        "limit": 20,
+        "total": 10,
+        "count": 10,
+        "results": [
+            {
+                "id": 34445,
+                "title": "Life of Wolverine Infinity Comic (2022)",
+                "description": "Jean Grey scans Wolverine’s mind, bringing us along with her through the long life of the mutant known as Logan, James Howlett, Weapon X, Wolverine and more! For the first time ever, explore the history of Wolverine in chronological order!",
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/34445",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/34445/life_of_wolverine_infinity_comic_2022?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 2022,
+                "endYear": 2022,
+                "rating": "",
+                "type": "",
+                "modified": "2025-04-19T09:53:20+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/65132e8c1b4a7",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/34445/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/12741",
+                            "name": "Ramón F. Bachs",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/12313",
+                            "name": "Mark Basso",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/12974",
+                            "name": "Vc Joe Sabino",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/8704",
+                            "name": "Javier Tartaglia",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/12390",
+                            "name": "Jim Zub",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 15,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/34445/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009211",
+                            "name": "Bucky"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009351",
+                            "name": "Hulk"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009327",
+                            "name": "Jean Grey"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009417",
+                            "name": "Magneto"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009735",
+                            "name": "Mariko Yashida"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009482",
+                            "name": "Omega Red"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009546",
+                            "name": "Rogue"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009554",
+                            "name": "Sabretooth"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010740",
+                            "name": "Winter Soldier"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009718",
+                            "name": "Wolverine"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009726",
+                            "name": "X-Men"
+                        }
+                    ],
+                    "returned": 15
+                },
+                "stories": {
+                    "available": 20,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/34445/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221788",
+                            "name": "cover from X Lives of Wolverine Infinity Comic (2022) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221789",
+                            "name": "story from X Lives of Wolverine Infinity Comic (2022) #1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221790",
+                            "name": "cover from X Lives of Wolverine Infinity Comic (2022) #2",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221791",
+                            "name": "story from X Lives of Wolverine Infinity Comic (2022) #2",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221792",
+                            "name": "cover from X Lives of Wolverine Infinity Comic (2022) #3",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221793",
+                            "name": "story from X Lives of Wolverine Infinity Comic (2022) #3",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221794",
+                            "name": "cover from X Lives of Wolverine Infinity Comic (2022) #4",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221795",
+                            "name": "story from X Lives of Wolverine Infinity Comic (2022) #4",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221796",
+                            "name": "cover from X Lives of Wolverine Infinity Comic (2022) #5",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/221797",
+                            "name": "story from X Lives of Wolverine Infinity Comic (2022) #5",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222808",
+                            "name": "cover from Life of Wolverine Infinity Comic (2022) #6",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222809",
+                            "name": "story from Life of Wolverine Infinity Comic (2022) #6",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222810",
+                            "name": "cover from Life of Wolverine Infinity Comic (2022) #7",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222811",
+                            "name": "story from Life of Wolverine Infinity Comic (2022) #7",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222812",
+                            "name": "cover from Life of Wolverine Infinity Comic (2022) #8",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222813",
+                            "name": "story from Life of Wolverine Infinity Comic (2022) #8",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222814",
+                            "name": "cover from Life of Wolverine Infinity Comic (2022) #9",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222815",
+                            "name": "story from Life of Wolverine Infinity Comic (2022) #9",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222816",
+                            "name": "cover from Life of Wolverine Infinity Comic (2022) #10",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/222817",
+                            "name": "story from Life of Wolverine Infinity Comic (2022) #10",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 10,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/34445/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100343",
+                            "name": "Life of Wolverine Infinity Comic (2022) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100344",
+                            "name": "Life of Wolverine Infinity Comic (2022) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100345",
+                            "name": "Life of Wolverine Infinity Comic (2022) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100346",
+                            "name": "Life of Wolverine Infinity Comic (2022) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100347",
+                            "name": "Life of Wolverine Infinity Comic (2022) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100853",
+                            "name": "Life of Wolverine Infinity Comic (2022) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100854",
+                            "name": "Life of Wolverine Infinity Comic (2022) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100855",
+                            "name": "Life of Wolverine Infinity Comic (2022) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100856",
+                            "name": "Life of Wolverine Infinity Comic (2022) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/100857",
+                            "name": "Life of Wolverine Infinity Comic (2022) #10"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/34445/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 543,
+                "title": "Weapon X (2002 - 2004)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/543",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/543/weapon_x_2002_-_2004?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 2002,
+                "endYear": 2004,
+                "rating": "",
+                "type": "",
+                "modified": "2018-06-08T09:53:32+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/4bb66fe856148",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 28,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/543/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/598",
+                            "name": "Brad Anderson",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/562",
+                            "name": "Tom Chu",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2535",
+                            "name": "Melissa Edwards",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/236",
+                            "name": "Tommy Lee Edwards",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3807",
+                            "name": "Scott Elmer",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13542",
+                            "name": "Don Hillsman II",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/127",
+                            "name": "John Paul Leon",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13145",
+                            "name": "Sean Parsons",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/844",
+                            "name": "James Pascoe",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13158",
+                            "name": "Rich Perrotta",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/461",
+                            "name": "Norm Rapmund",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2121",
+                            "name": "Robin Riggs",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/12581",
+                            "name": "Vc Chris Eliopoulos",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/218",
+                            "name": "Keron Grant",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/188",
+                            "name": "Georges Jeanty",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/380",
+                            "name": "Jeff Johnson",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/481",
+                            "name": "Barry Kitson",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/597",
+                            "name": "Tom Mandrake",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/5105",
+                            "name": "Pop Mhan",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13466",
+                            "name": "Roger Robinson",
+                            "role": "penciler"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 35,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/543/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009163",
+                            "name": "Aurora"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009164",
+                            "name": "Avalanche"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009199",
+                            "name": "Blob"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009209",
+                            "name": "Brotherhood of Evil Mutants"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009536",
+                            "name": "Cecilia Reyes"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009233",
+                            "name": "Chamber"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009257",
+                            "name": "Cyclops"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009277",
+                            "name": "Domino"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009383",
+                            "name": "Garrison Kane"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009357",
+                            "name": "Husk"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009362",
+                            "name": "Iceman"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1011092",
+                            "name": "Leech"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009414",
+                            "name": "Maggott"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009242",
+                            "name": "Malcolm Colcord"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009424",
+                            "name": "Marauders"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009425",
+                            "name": "Marrow"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 58,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/543/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/868",
+                            "name": "WEAPON X (2002) #19",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/869",
+                            "name": "Interior #869",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1774",
+                            "name": "WEAPON X (2002) #16",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1775",
+                            "name": "Interior #1775",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/600",
+                            "name": "WEAPON X (2002) #20",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/601",
+                            "name": "Interior #601",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1302",
+                            "name": "WEAPON X (2002) #18",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1303",
+                            "name": "Interior #1303",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1974",
+                            "name": "WEAPON X (2002) #17",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1975",
+                            "name": "Interior #1975",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/2160",
+                            "name": "WEAPON X (2002) #15",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/2161",
+                            "name": "Interior #2161",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1606",
+                            "name": "WEAPON X (2002) #14",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1607",
+                            "name": "Interior #1607",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1131",
+                            "name": "WEAPON X (2002) #13",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1132",
+                            "name": "Interior #1132",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1784",
+                            "name": "WEAPON X (2002) #21",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1785",
+                            "name": "Interior #1785",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1786",
+                            "name": "WEAPON X (2002) #22",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/1787",
+                            "name": "Interior #1787",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 29,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/543/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18071",
+                            "name": "Weapon X (2002) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18082",
+                            "name": "Weapon X (2002) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18092",
+                            "name": "Weapon X (2002) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18093",
+                            "name": "Weapon X (2002) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18094",
+                            "name": "Weapon X (2002) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18095",
+                            "name": "Weapon X (2002) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18096",
+                            "name": "Weapon X (2002) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18097",
+                            "name": "Weapon X (2002) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18098",
+                            "name": "Weapon X (2002) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18072",
+                            "name": "Weapon X (2002) #10"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18073",
+                            "name": "Weapon X (2002) #11"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18074",
+                            "name": "Weapon X (2002) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/22637",
+                            "name": "Weapon X (2002) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/246",
+                            "name": "Weapon X (2002) #13"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/245",
+                            "name": "Weapon X (2002) #14"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/244",
+                            "name": "Weapon X (2002) #15"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/230",
+                            "name": "Weapon X (2002) #16"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/243",
+                            "name": "Weapon X (2002) #17"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/241",
+                            "name": "Weapon X (2002) #18"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/212",
+                            "name": "Weapon X (2002) #19"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/543/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 869,
+                "title": "Weapon X: Days of Future Now (2005)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/869",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/869/weapon_x_days_of_future_now_2005?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 2005,
+                "endYear": 2005,
+                "rating": "",
+                "type": "",
+                "modified": "2018-02-21T13:19:42+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4bc62eabc7524",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/869/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/767",
+                            "name": "Michael Atiyeh",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/837",
+                            "name": "Mark Pennington",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/764",
+                            "name": "Bart Sears",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/928",
+                            "name": "Andy Smith",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/8429",
+                            "name": "Dave Sharpe",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/91",
+                            "name": "Frank Tieri",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 5,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/869/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009233",
+                            "name": "Chamber"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009301",
+                            "name": "Fantomex"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009709",
+                            "name": "Weapon X"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009718",
+                            "name": "Wolverine"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "stories": {
+                    "available": 10,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/869/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4602",
+                            "name": "1 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4603",
+                            "name": "1 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4604",
+                            "name": "2 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4605",
+                            "name": "2 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4606",
+                            "name": "3 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4607",
+                            "name": "3 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4608",
+                            "name": "4 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4609",
+                            "name": "4 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4610",
+                            "name": "5 of 5 - 5XLS",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4611",
+                            "name": "5 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 10
+                },
+                "comics": {
+                    "available": 5,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/869/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/2204",
+                            "name": "Weapon X: Days of Future Now (2005) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/2324",
+                            "name": "Weapon X: Days of Future Now (2005) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/2438",
+                            "name": "Weapon X: Days of Future Now (2005) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/2439",
+                            "name": "Weapon X: Days of Future Now (2005) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/3016",
+                            "name": "Weapon X: Days of Future Now (2005) #5"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/869/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 1478,
+                "title": "WEAPON X: DAYS OF FUTURE NOW (2006)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/1478",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/1478/weapon_x_days_of_future_now_2006?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 2006,
+                "endYear": 2006,
+                "rating": "T+",
+                "type": "collection",
+                "modified": "2024-08-01T20:22:03+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/4bc6224ac1d31",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 6,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/1478/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/767",
+                            "name": "Michael Atiyeh",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/837",
+                            "name": "Mark Pennington",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/764",
+                            "name": "Bart Sears",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/928",
+                            "name": "Andy Smith",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/8429",
+                            "name": "Dave Sharpe",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/91",
+                            "name": "Frank Tieri",
+                            "role": "writer"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "characters": {
+                    "available": 3,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/1478/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009233",
+                            "name": "Chamber"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009301",
+                            "name": "Fantomex"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "stories": {
+                    "available": 6,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/1478/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4603",
+                            "name": "1 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4605",
+                            "name": "2 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4607",
+                            "name": "3 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4609",
+                            "name": "4 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/4611",
+                            "name": "5 of 5 - 5XLS",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/65848",
+                            "name": "WEAPON X: DAYS OF FUTURE NOW 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 6
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/1478/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/3357",
+                            "name": "WEAPON X: DAYS OF FUTURE NOW (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/1478/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 3649,
+                "title": "Weapon X: The Draft – Agent Zero (2002)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/3649",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/3649/weapon_x_the_draft_agent_zero_2002?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 2002,
+                "endYear": 2002,
+                "rating": "",
+                "type": "one shot",
+                "modified": "2020-09-18T02:24:10+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/5a8713bd974d2",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 5,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3649/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/14030",
+                            "name": "Terry Austin",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/6145",
+                            "name": "Kilian Plunkett",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/6146",
+                            "name": "Avalon Studios",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/91",
+                            "name": "Frank Tieri",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4210",
+                            "name": "Paul Tutrone",
+                            "role": "letterer"
+                        }
+                    ],
+                    "returned": 5
+                },
+                "characters": {
+                    "available": 8,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3649/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009425",
+                            "name": "Marrow"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009442",
+                            "name": "Mesmero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009554",
+                            "name": "Sabretooth"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009561",
+                            "name": "Sauron"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009610",
+                            "name": "Spider-Man (Peter Parker)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009715",
+                            "name": "Wild Child"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009718",
+                            "name": "Wolverine"
+                        }
+                    ],
+                    "returned": 8
+                },
+                "stories": {
+                    "available": 4,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3649/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/39215",
+                            "name": "Cover #39215",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/39216",
+                            "name": "[Credits and Recap]",
+                            "type": "recap"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/39217",
+                            "name": "Initiation",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/201130",
+                            "name": "story from WEAPON X: THE DRAFT - AGENT ZERO 1 (2002) #1",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 4
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3649/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18408",
+                            "name": "Weapon X: The Draft – Agent Zero (2002) #1"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3649/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 2262,
+                "title": "Wolverine (1988 - 2003)",
+                "description": "Breaking away from the X-Men, the man known as Logan pursues the most dangerous adventures he can find! See Wolverine clash with the pirates of Madripoor, the ninja hordes of Japan and the mutant-hunting Sentinels as well as grapple with his own past in this classic series!",
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/2262",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/2262/wolverine_1988_-_2003?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 1988,
+                "endYear": 2003,
+                "rating": "",
+                "type": "",
+                "modified": "2015-04-01T16:34:08+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/513112b393b41",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 201,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2262/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2330",
+                            "name": "Malibu",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1950",
+                            "name": "Joe Andreani",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1935",
+                            "name": "Paul Becton",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4617",
+                            "name": "Derek Bellman",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1945",
+                            "name": "Mark Bernardo",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/14425",
+                            "name": "Rob Liefeld, Eric Stephenson",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/11463",
+                            "name": "Jason Aaron",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/8542",
+                            "name": "Gerry Alanguilan",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4061",
+                            "name": "Marlo Alquiza",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13346",
+                            "name": "Matthew Banning",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2077",
+                            "name": "Hilary Barta",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4469",
+                            "name": "Richard Bennett",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4589",
+                            "name": "Chris Alexander",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/506",
+                            "name": "Joe Bennett",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4591",
+                            "name": "Ramon Bernado",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4583",
+                            "name": "Steve Biasi",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4574",
+                            "name": "Ryan Bodenheim",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3667",
+                            "name": "Richard Ashford",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4556",
+                            "name": "Digital Broome",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4541",
+                            "name": "Mat Broome",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 131,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2262/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009148",
+                            "name": "Absorbing Man"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010370",
+                            "name": "Alpha Flight"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009151",
+                            "name": "Amiko"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009154",
+                            "name": "Annihilus"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009159",
+                            "name": "Archangel"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009163",
+                            "name": "Aurora"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009168",
+                            "name": "Banshee"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009175",
+                            "name": "Beast"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009182",
+                            "name": "Bishop"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009185",
+                            "name": "Black Cat"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009189",
+                            "name": "Black Widow"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009201",
+                            "name": "Blok"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009203",
+                            "name": "Bloodscream"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009205",
+                            "name": "Boomer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009216",
+                            "name": "Caliban"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009217",
+                            "name": "Callisto"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009219",
+                            "name": "Cannonball"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 675,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2262/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/27451",
+                            "name": "Flashback",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/27452",
+                            "name": "A Whiff of Sartre's Madeline!",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/201295",
+                            "name": "story #-1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28559",
+                            "name": "WOLVERINE (1988) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28560",
+                            "name": "Sword Quest",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28561",
+                            "name": "Wolverine Gallery",
+                            "type": "backcovers"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/273094",
+                            "name": "story from Wolverine (1988) #1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28562",
+                            "name": "WOLVERINE (1988) #10",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28563",
+                            "name": "24 Hours",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28564",
+                            "name": "Wolverine Gallery",
+                            "type": "backcovers"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/273103",
+                            "name": "story from Wolverine (1988) #10",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28565",
+                            "name": "Cover #28565",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28566",
+                            "name": "Furnace Of His Brain, Anvil Of His Heart",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/273143",
+                            "name": "story from Wolverine (1988) #100",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28567",
+                            "name": "From the Depths...Stone Cold Death !",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28568",
+                            "name": "The Helix of an Age Foretold",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28569",
+                            "name": "Cover #28569",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28570",
+                            "name": "Unspoken Promises",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/155550",
+                            "name": "cover from Wolverine (1988) #102",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/155551",
+                            "name": "story from Wolverine (1988) #102",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 191,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2262/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14035",
+                            "name": "Wolverine (1988) #-1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14036",
+                            "name": "Wolverine (1988) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14137",
+                            "name": "Wolverine (1988) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14148",
+                            "name": "Wolverine (1988) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14159",
+                            "name": "Wolverine (1988) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14170",
+                            "name": "Wolverine (1988) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14181",
+                            "name": "Wolverine (1988) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14192",
+                            "name": "Wolverine (1988) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14203",
+                            "name": "Wolverine (1988) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14214",
+                            "name": "Wolverine (1988) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14037",
+                            "name": "Wolverine (1988) #10"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14048",
+                            "name": "Wolverine (1988) #11"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14059",
+                            "name": "Wolverine (1988) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14070",
+                            "name": "Wolverine (1988) #13"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14081",
+                            "name": "Wolverine (1988) #14"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14092",
+                            "name": "Wolverine (1988) #15"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14103",
+                            "name": "Wolverine (1988) #16"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14114",
+                            "name": "Wolverine (1988) #17"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14125",
+                            "name": "Wolverine (1988) #18"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14136",
+                            "name": "Wolverine (1988) #19"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 3,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2262/events",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/116",
+                            "name": "Acts of Vengeance!"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/249",
+                            "name": "Fatal Attractions"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "next": {
+                    "resourceURI": "https://gateway.marvel.com/v1/public/series/632",
+                    "name": "Wolverine (2003 - 2009)"
+                },
+                "previous": {
+                    "resourceURI": "https://gateway.marvel.com/v1/public/series/2096",
+                    "name": "Wolverine (1982)"
+                }
+            },
+            {
+                "id": 84,
+                "title": "WOLVERINE/DEADPOOL: WEAPON X (1999)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/84",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/84/wolverinedeadpool_weapon_x_1999?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 1999,
+                "endYear": 1999,
+                "rating": "Marvel Psr",
+                "type": "collection",
+                "modified": "2024-08-02T05:50:26+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/60/4bc66be78d88f",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/84/creators",
+                    "items": [],
+                    "returned": 0
+                },
+                "characters": {
+                    "available": 19,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/84/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009148",
+                            "name": "Absorbing Man"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009175",
+                            "name": "Beast"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009233",
+                            "name": "Chamber"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009268",
+                            "name": "Deadpool"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009334",
+                            "name": "Hammerhead"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009368",
+                            "name": "Iron Man"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009425",
+                            "name": "Marrow"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009465",
+                            "name": "Mystique"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009471",
+                            "name": "Nick Fury"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009472",
+                            "name": "Nightcrawler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009534",
+                            "name": "Red Ghost"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009546",
+                            "name": "Rogue"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009554",
+                            "name": "Sabretooth"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009594",
+                            "name": "Silvermane"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009673",
+                            "name": "Toad"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009718",
+                            "name": "Wolverine"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009720",
+                            "name": "Wong"
+                        }
+                    ],
+                    "returned": 19
+                },
+                "stories": {
+                    "available": 16,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/84/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/85",
+                            "name": "When Wolverine rebuffs the reconstituted Weapon X program, management is forced to settle for second best Ñ but Deadpool's first",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/24622",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/24623",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/24624",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/24628",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28703",
+                            "name": "WOLVERINE (1988) #162",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28704",
+                            "name": "The Hunted Part 1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28705",
+                            "name": "WOLVERINE (1988) #163",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28706",
+                            "name": "The Hunted Part 2",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28707",
+                            "name": "WOLVERINE (1988) #164",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28708",
+                            "name": "The Hunted Part 3",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28709",
+                            "name": "WOLVERINE (1988) #165",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28710",
+                            "name": "The Hunted Part 4",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28711",
+                            "name": "WOLVERINE (1988) #166",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/28712",
+                            "name": "The Hunted Part 5",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/65162",
+                            "name": "WOLVERINE/DEADPOOL: WEAPON X TPB 0 cover",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 16
+                },
+                "comics": {
+                    "available": 1,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/84/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/1023",
+                            "name": "WOLVERINE/DEADPOOL: WEAPON X (Trade Paperback)"
+                        }
+                    ],
+                    "returned": 1
+                },
+                "events": {
+                    "available": 0,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/84/events",
+                    "items": [],
+                    "returned": 0
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 3643,
+                "title": "X-Man (1995 - 2000)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/3643",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/3643/x-man_1995_-_2000?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 1995,
+                "endYear": 2000,
+                "rating": "",
+                "type": "",
+                "modified": "-0001-11-30T00:00:00+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4bb7bc51b8966",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 43,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3643/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/807",
+                            "name": "Comicraft",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/5962",
+                            "name": "GCW",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1945",
+                            "name": "Mark Bernardo",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4131",
+                            "name": "Matt Hicks",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/5960",
+                            "name": "Mario Capaldi",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/972",
+                            "name": "Kevin Conrad",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1012",
+                            "name": "Mick Gray",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/362",
+                            "name": "Scott Hanna",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/357",
+                            "name": "Jim Cheung",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/356",
+                            "name": "Roger Cruz",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/354",
+                            "name": "Tony Daniel",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4027",
+                            "name": "Ben Herrera",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/5971",
+                            "name": "Manny Clark",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/365",
+                            "name": "Pasqual Ferry",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/869",
+                            "name": "Phil Hester",
+                            "role": "penciller"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3572",
+                            "name": "Kelly Corvese",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/676",
+                            "name": "Warren Ellis",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1293",
+                            "name": "Steven Grant",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2520",
+                            "name": "Jaye Gardner",
+                            "role": "editor"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/7629",
+                            "name": "Dan Hosek",
+                            "role": "editor"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 33,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3643/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009160",
+                            "name": "Arclight"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009210",
+                            "name": "Brute"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009268",
+                            "name": "Deadpool"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009277",
+                            "name": "Domino"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010771",
+                            "name": "Excalibur"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009299",
+                            "name": "Fantastic Four"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1011285",
+                            "name": "Generation X"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1011048",
+                            "name": "Greycrow (Greycrow)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009336",
+                            "name": "Harpoon"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009356",
+                            "name": "Human Torch"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009366",
+                            "name": "Invisible Woman"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010944",
+                            "name": "Magneto (Age of Apocalypse)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009424",
+                            "name": "Marauders"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009434",
+                            "name": "Mastermind"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009439",
+                            "name": "Meltdown"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009410",
+                            "name": "Moira MacTaggert"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009459",
+                            "name": "Mr. Fantastic"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009483",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 281,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3643/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38648",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38649",
+                            "name": "Breeding Ground",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38650",
+                            "name": "Maverick",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67758",
+                            "name": "X-Man 0 cover",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38651",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38652",
+                            "name": "Breaking Away",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38653",
+                            "name": "X-Facts",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67759",
+                            "name": "X-Man (1995) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/274417",
+                            "name": "story from X-Man (1995) #1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38654",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38655",
+                            "name": "Confrontation",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67760",
+                            "name": "X-Man 10 cover",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/155992",
+                            "name": "story from X-Man (1995) #10",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38656",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38657",
+                            "name": "The X-Cutioner's Song",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67761",
+                            "name": "X-Man 11 cover",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/155993",
+                            "name": "story from X-Man (1995) #11",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38658",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38659",
+                            "name": "Trust",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67762",
+                            "name": "X-Man (1995) #12",
+                            "type": "cover"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 76,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3643/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18176",
+                            "name": "X-Man (1995) #-1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18177",
+                            "name": "X-Man (1995) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18188",
+                            "name": "X-Man (1995) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18199",
+                            "name": "X-Man (1995) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18210",
+                            "name": "X-Man (1995) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18221",
+                            "name": "X-Man (1995) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18232",
+                            "name": "X-Man (1995) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18243",
+                            "name": "X-Man (1995) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18250",
+                            "name": "X-Man (1995) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18251",
+                            "name": "X-Man (1995) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18178",
+                            "name": "X-Man (1995) #10"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18179",
+                            "name": "X-Man (1995) #11"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18180",
+                            "name": "X-Man (1995) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18181",
+                            "name": "X-Man (1995) #13"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18182",
+                            "name": "X-Man (1995) #14"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18183",
+                            "name": "X-Man (1995) #15"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18184",
+                            "name": "X-Man (1995) #16"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18185",
+                            "name": "X-Man (1995) #17"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18186",
+                            "name": "X-Man (1995) #18"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18187",
+                            "name": "X-Man (1995) #19"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 2,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3643/events",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/227",
+                            "name": "Age of Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "next": null,
+                "previous": null
+            },
+            {
+                "id": 2265,
+                "title": "X-Men (1991 - 2001)",
+                "description": "An exciting era for Marvel's mutants begin! With a larger team roster than ever before, the X-Men face familiar foes like Magneto, new opponents like Omega Red, and monumental threats including Onslaught and Operation: Zero Tolerance in their 90's exploits!",
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/2265",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/2265/x-men_1991_-_2001?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 1991,
+                "endYear": 2001,
+                "rating": "",
+                "type": "",
+                "modified": "2016-06-20T12:25:37+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/e0/513115de77b40",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 113,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2265/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/11482",
+                            "name": "Jesus Aburtov",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/8542",
+                            "name": "Gerry Alanguilan",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4061",
+                            "name": "Marlo Alquiza",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1940",
+                            "name": "Karl Altstaetter",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/430",
+                            "name": "Edgar Delgado",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/359",
+                            "name": "John Dell",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1935",
+                            "name": "Paul Becton",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1909",
+                            "name": "Steve Buccellato",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13348",
+                            "name": "Liquid! Color",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4469",
+                            "name": "Richard Bennett",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1148",
+                            "name": "Brett Booth",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4541",
+                            "name": "Mat Broome",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4039",
+                            "name": "Bernard Chang",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/16",
+                            "name": "Alan Davis",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3632",
+                            "name": "Lois Buhalis",
+                            "role": "letterer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1827",
+                            "name": "John Byrne",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4000",
+                            "name": "Chris Carlson",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/159",
+                            "name": "Joe Casey",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/44",
+                            "name": "Chris Claremont",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/14175",
+                            "name": "Sergio Davila",
+                            "role": "penciler (cover)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 142,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2265/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009146",
+                            "name": "Abomination (Emil Blonsky)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010354",
+                            "name": "Adam Warlock"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009153",
+                            "name": "Angel (Warren Worthington III)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009158",
+                            "name": "Arcade"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009159",
+                            "name": "Archangel"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009168",
+                            "name": "Banshee"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009596",
+                            "name": "Banshee (Theresa Rourke)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009171",
+                            "name": "Bastion"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009175",
+                            "name": "Beast"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009182",
+                            "name": "Bishop"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009186",
+                            "name": "Black Knight (Sir Percy of Scandia)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009189",
+                            "name": "Black Widow"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009197",
+                            "name": "Blink"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009199",
+                            "name": "Blob"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009205",
+                            "name": "Boomer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009208",
+                            "name": "Brood"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009216",
+                            "name": "Caliban"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 415,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2265/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29114",
+                            "name": "X-MEN (1991) #1",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29115",
+                            "name": "Rubicon",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29116",
+                            "name": "A Villains Gallery",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29117",
+                            "name": "A Blast From the Past",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29118",
+                            "name": "Wish You Were Here...",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29119",
+                            "name": "Things to Come",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29120",
+                            "name": "X-Men Sketchbook",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29121",
+                            "name": "Cover to X-Men #2",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29122",
+                            "name": "And the Best is Yet to Come",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/206126",
+                            "name": "story from X-Men (1991) #1",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29123",
+                            "name": "X-MEN (1991) #10",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29124",
+                            "name": "Where Little Happy Bluebirds Fly...",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29125",
+                            "name": "Last Stand",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/273207",
+                            "name": "story from X-Men (1991) #10",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29126",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67277",
+                            "name": "X-Men 100 cover",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/152152",
+                            "name": "story from X-Men (1991) #100",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/29127",
+                            "name": "",
+                            "type": ""
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/67278",
+                            "name": "X-Men 101 cover",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/152153",
+                            "name": "story from X-Men (1991) #101",
+                            "type": "interiorStory"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 115,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2265/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/61788",
+                            "name": "X-Men (1991) #-1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/56308",
+                            "name": "X-Men (1991) #0.5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14281",
+                            "name": "X-Men (1991) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14306",
+                            "name": "X-Men (1991) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14317",
+                            "name": "X-Men (1991) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14328",
+                            "name": "X-Men (1991) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14339",
+                            "name": "X-Men (1991) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14350",
+                            "name": "X-Men (1991) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14361",
+                            "name": "X-Men (1991) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14372",
+                            "name": "X-Men (1991) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14383",
+                            "name": "X-Men (1991) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14282",
+                            "name": "X-Men (1991) #10"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14293",
+                            "name": "X-Men (1991) #11"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14298",
+                            "name": "X-Men (1991) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14299",
+                            "name": "X-Men (1991) #13"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14300",
+                            "name": "X-Men (1991) #14"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14301",
+                            "name": "X-Men (1991) #15"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14302",
+                            "name": "X-Men (1991) #16"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14303",
+                            "name": "X-Men (1991) #17"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/14304",
+                            "name": "X-Men (1991) #18"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 3,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/2265/events",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/249",
+                            "name": "Fatal Attractions"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/37",
+                            "name": "Maximum Security"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 3
+                },
+                "next": {
+                    "resourceURI": "https://gateway.marvel.com/v1/public/series/2281",
+                    "name": "New X-Men (2001 - 2004)"
+                },
+                "previous": {
+                    "resourceURI": "https://gateway.marvel.com/v1/public/series/2258",
+                    "name": "Uncanny X-Men (1981 - 2011)"
+                }
+            },
+            {
+                "id": 3637,
+                "title": "X-Men Unlimited (1993 - 2003)",
+                "description": null,
+                "resourceURI": "https://gateway.marvel.com/v1/public/series/3637",
+                "urls": [
+                    {
+                        "type": "detail",
+                        "url": "http://marvel.com/comics/series/3637/x-men_unlimited_1993_-_2003?utm_campaign=apiRef&utm_source=02b356094265fecd8d598b831cbfa712"
+                    }
+                ],
+                "startYear": 1993,
+                "endYear": 2003,
+                "rating": "",
+                "type": "",
+                "modified": "2019-09-30T13:58:59+0000",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5d9209fa2a537",
+                    "extension": "jpg"
+                },
+                "creators": {
+                    "available": 233,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3637/creators",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3811",
+                            "name": "Charlie Adlard",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3389",
+                            "name": "Ian Akin",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/6115",
+                            "name": "Quique Alcatena",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13922",
+                            "name": "Eduardo Alpuente",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/11063",
+                            "name": "Terry Kevin Austin",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/193",
+                            "name": "Simon Bisley",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/3074",
+                            "name": "Ralph Cabrera",
+                            "role": "inker"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/2113",
+                            "name": "Joe Agostinelli",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/598",
+                            "name": "Brad Anderson",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1945",
+                            "name": "Mark Bernardo",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/4135",
+                            "name": "Shannon Blanchard",
+                            "role": "colorist"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13574",
+                            "name": "Michael Allred",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/11",
+                            "name": "Chuck Austen",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/9181",
+                            "name": "Nick Bertozzi",
+                            "role": "writer"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/191",
+                            "name": "Kaare Andrews",
+                            "role": "colorist (cover)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/232",
+                            "name": "Chris Bachalo",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/87",
+                            "name": "Mark Bagley",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/1148",
+                            "name": "Brett Booth",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/13759",
+                            "name": "James Calafiore",
+                            "role": "penciler"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/creators/5268",
+                            "name": "Jim Calafiore",
+                            "role": "penciller (cover)"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "characters": {
+                    "available": 75,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3637/characters",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009150",
+                            "name": "Agent Zero"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010370",
+                            "name": "Alpha Flight"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009156",
+                            "name": "Apocalypse"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009159",
+                            "name": "Archangel"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009168",
+                            "name": "Banshee"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009596",
+                            "name": "Banshee (Theresa Rourke)"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009171",
+                            "name": "Bastion"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009175",
+                            "name": "Beast"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009182",
+                            "name": "Bishop"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1010356",
+                            "name": "Black Queen"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009197",
+                            "name": "Blink"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009203",
+                            "name": "Bloodscream"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009208",
+                            "name": "Brood"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009209",
+                            "name": "Brotherhood of Evil Mutants"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009214",
+                            "name": "Cable"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009216",
+                            "name": "Caliban"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009217",
+                            "name": "Callisto"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009220",
+                            "name": "Captain America"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009233",
+                            "name": "Chamber"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/characters/1009243",
+                            "name": "Colossus"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "stories": {
+                    "available": 222,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3637/stories",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38500",
+                            "name": "Survival",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38501",
+                            "name": "Follow the Leader",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38502",
+                            "name": "X-Men Gallery",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38503",
+                            "name": "Cyclops",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38504",
+                            "name": "Wolverine & Colossus",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38505",
+                            "name": "Storm, Rogue and Psylocke",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38506",
+                            "name": "Cable",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38507",
+                            "name": "X-Men",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38508",
+                            "name": "Beast vs. Beast! Meet the Real McCoy",
+                            "type": "cover"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38509",
+                            "name": "Need to Know",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/273249",
+                            "name": "story from X-Men Unlimited (1993) #10",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38489",
+                            "name": "Magneto and Rogue--Starting Over",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38490",
+                            "name": "Adrift",
+                            "type": "interiorStory"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38491",
+                            "name": "X-Cerpts + Keepsakes",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38492",
+                            "name": "Scott & Alex",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38493",
+                            "name": "Rogue",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38494",
+                            "name": "Colossus",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38495",
+                            "name": "Storm/Colossus/Wolverine",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38496",
+                            "name": "Colossus/M",
+                            "type": "pinup"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/stories/38497",
+                            "name": "The Women of the X",
+                            "type": "pinup"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "comics": {
+                    "available": 50,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3637/comics",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18110",
+                            "name": "X-Men Unlimited (1993) #1"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18121",
+                            "name": "X-Men Unlimited (1993) #2"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18132",
+                            "name": "X-Men Unlimited (1993) #3"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18143",
+                            "name": "X-Men Unlimited (1993) #4"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18154",
+                            "name": "X-Men Unlimited (1993) #5"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18156",
+                            "name": "X-Men Unlimited (1993) #6"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18157",
+                            "name": "X-Men Unlimited (1993) #7"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18158",
+                            "name": "X-Men Unlimited (1993) #8"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18159",
+                            "name": "X-Men Unlimited (1993) #9"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18111",
+                            "name": "X-Men Unlimited (1993) #10"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18112",
+                            "name": "X-Men Unlimited (1993) #11"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18113",
+                            "name": "X-Men Unlimited (1993) #12"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18114",
+                            "name": "X-Men Unlimited (1993) #13"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18115",
+                            "name": "X-Men Unlimited (1993) #14"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18116",
+                            "name": "X-Men Unlimited (1993) #15"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18117",
+                            "name": "X-Men Unlimited (1993) #16"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18118",
+                            "name": "X-Men Unlimited (1993) #17"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18119",
+                            "name": "X-Men Unlimited (1993) #18"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18120",
+                            "name": "X-Men Unlimited (1993) #19"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/comics/18122",
+                            "name": "X-Men Unlimited (1993) #20"
+                        }
+                    ],
+                    "returned": 20
+                },
+                "events": {
+                    "available": 2,
+                    "collectionURI": "https://gateway.marvel.com/v1/public/series/3637/events",
+                    "items": [
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/37",
+                            "name": "Maximum Security"
+                        },
+                        {
+                            "resourceURI": "https://gateway.marvel.com/v1/public/events/154",
+                            "name": "Onslaught"
+                        }
+                    ],
+                    "returned": 2
+                },
+                "next": null,
+                "previous": null
+            }
+        ]
+    }
+}
