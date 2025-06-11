@@ -2,7 +2,6 @@ import SwiftUI
 
 struct CharactersView: View {
     @State var charactersViewModel: CharactersViewModel
-   
     
     var body: some View {
         NavigationStack {
@@ -12,9 +11,14 @@ struct CharactersView: View {
             case .loading:
                 LoadingView()
             case .loaded:
-                Text("Loaded")
+                List(charactersViewModel.characters, id: \.id) { item in
+                    CharacterView(character: item)
+                }
+                .navigationTitle("Marvel Characters")
             case .empty:
-                Text("Empty")
+                EmptyView(onTryAgain: {
+                    charactersViewModel.load()
+                })
             }
         }
         .onAppear {

@@ -24,7 +24,7 @@ enum CharactersViewState {
                 let characters = try await getCharactersUseCase.run()
                 self.characters = characters
                 charactersViewState = .loaded
-            } catch let error as PresentationError {
+            } catch _ as PresentationError {
                 charactersViewState = .empty
             }
         }
