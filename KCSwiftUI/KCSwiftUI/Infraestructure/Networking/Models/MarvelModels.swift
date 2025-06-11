@@ -27,3 +27,10 @@ struct ThumbnailDTO: Decodable {
         case pathExtension = "extension"
     }
 }
+
+extension ThumbnailDTO {
+    
+    func getPhoto() -> String {
+        "\(path)\(pathExtension)"
+    }
+}
