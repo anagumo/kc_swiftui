@@ -40,7 +40,10 @@ final class APISessionTests: XCTestCase {
         XCTAssertNotNil(characters)
         XCTAssertEqual(characters?.data.results.count, 10)
         let firstResult = try XCTUnwrap(characters?.data.results.first)
+        XCTAssertEqual(firstResult.id, 1009150)
         XCTAssertEqual(firstResult.name, "Agent Zero")
+        XCTAssertEqual(firstResult.thumbnail?.path, "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790")
+        XCTAssertEqual(firstResult.thumbnail?.pathExtension, "jpg")
         XCTAssertEqual(firstResult.thumbnail?.getPhoto(), "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790.jpg")
     }
     
@@ -67,7 +70,10 @@ final class APISessionTests: XCTestCase {
         XCTAssertNotNil(series)
         XCTAssertEqual(series?.data.results.count, 10)
         let firstResult = try XCTUnwrap(series?.data.results.first)
+        XCTAssertEqual(firstResult.id, 34445)
         XCTAssertEqual(firstResult.title, "Life of Wolverine Infinity Comic (2022)")
+        XCTAssertEqual(firstResult.thumbnail?.path, "http://i.annihil.us/u/prod/marvel/i/mg/6/10/65132e8c1b4a7")
+        XCTAssertEqual(firstResult.thumbnail?.pathExtension, "jpg")
         XCTAssertEqual(firstResult.thumbnail?.getPhoto(), "http://i.annihil.us/u/prod/marvel/i/mg/6/10/65132e8c1b4a7.jpg")
     }
 }
