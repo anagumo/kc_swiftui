@@ -31,6 +31,6 @@ struct ThumbnailDTO: Decodable {
 extension ThumbnailDTO {
     
     func getPhoto() -> String {
-        "\(path)\(pathExtension)"
+        "\(path).\(pathExtension)"
     }
 }
