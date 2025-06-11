@@ -4,7 +4,7 @@ import SwiftUI
 struct KCSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            Text("Hola")
+            CharactersView()
         }
     }
 }
