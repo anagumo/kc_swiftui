@@ -57,7 +57,7 @@ final class APISessionTests: XCTestCase {
         
         // When
         let series = try await sut?.request(
-            GetSeriesURLRequest(characterIdentifier: "1009150")
+            GetSeriesURLRequest(characterIdentifier: 1009150)
         )
         
         // Then
