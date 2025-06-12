@@ -32,7 +32,7 @@ struct CharacterView: View {
         .frame(maxWidth: .infinity, minHeight: 120)
         #endif
         .padding(8)
-        .background(.marvelPlaceholder)
+        .background(.marvelSecondaryBackground)
         .cornerRadius(12)
     }
 }

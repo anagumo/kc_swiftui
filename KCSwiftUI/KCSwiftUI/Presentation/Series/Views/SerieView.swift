@@ -9,7 +9,7 @@ struct SerieView: View {
                 phase.image?
                     .resizable()
                     #if os(iOS)
-                    .frame(maxWidth: .infinity, maxHeight: 500)
+                    .frame(maxWidth: .infinity, maxHeight: 400)
                     #elseif os(watchOS)
                     .frame(maxWidth: .infinity, maxHeight: 150)
                     #endif
@@ -44,11 +44,11 @@ struct SerieView: View {
             }
         }
         #if os(iOS)
-        .frame(maxWidth: .infinity, minHeight: 500)
+        .frame(maxWidth: .infinity, minHeight: 400)
         #elseif os(watchOS)
         .frame(maxWidth: .infinity, minHeight: 150)
         #endif
-        .background(.marvelPlaceholder)
+        .background(.marvelSecondaryBackground)
         .cornerRadius(12)
     }
 }
