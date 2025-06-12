@@ -1,31 +1,31 @@
 import Foundation
 import Combine
 
-enum CharactersViewState {
+enum CharacterViewState {
     case none, loading, loaded, empty
 }
 
 @Observable final class CharactersViewModel {
-    var charactersViewState: CharactersViewState
-    var characters: [Character]
-    private var getCharactersUseCase: GetCharactersUseCaseProtocol
+    private let getCharactersUseCase: GetCharactersUseCaseProtocol
+    var characterViewState: CharacterViewState
+    var characters: [KCCharacter]
     
     init(getCharactersUseCase: GetCharactersUseCaseProtocol) {
-        charactersViewState = .none
+        characterViewState = .none
         characters = []
         self.getCharactersUseCase = getCharactersUseCase
     }
     
     func load() {
-        charactersViewState = .loading
+        characterViewState = .loading
         
         Task {
             do {
                 let characters = try await getCharactersUseCase.run()
                 self.characters = characters
-                charactersViewState = .loaded
+                characterViewState = .loaded
             } catch _ as PresentationError {
-                charactersViewState = .empty
+                characterViewState = .empty
             }
         }
     }

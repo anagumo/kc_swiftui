@@ -1,28 +1,24 @@
 import SwiftUI
 
 struct CharacterView: View {
-    var character: Character
+    var character: KCCharacter
     
     var body: some View {
-        ZStack() {
+        VStack {
             AsyncImage(url: URL(string: character.thumbnail ?? "")) { phase in
                 phase.image?
                     .resizable()
-                    .aspectRatio(contentMode: .fill)
+                    .frame(maxWidth: .infinity, maxHeight: 250)
                     .clipped()
             }
-            .overlay {
-                Rectangle()
-                    .foregroundStyle(.marvelBackground)
-                    .opacity(0.5)
-            }
             Text(character.name)
+                .padding(8)
                 .font(.title2)
                 .fontWeight(.semibold)
                 .foregroundStyle(.marvelPrimaryText)
                 
         }
-        .frame(maxWidth: .infinity, minHeight: 200, maxHeight: 200)
+        .frame(maxWidth: .infinity, minHeight: 250)
         .background(.marvelPlaceholder)
         .cornerRadius(12)
     }
@@ -30,10 +26,10 @@ struct CharacterView: View {
 
 #Preview {
     CharacterView(
-        character: Character(
-            id:1009150,
-            name: "Agent Zero",
-            thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790.jpg"
+        character: KCCharacter(
+            id: 1009571,
+            name: "Sentry (Robert Reynolds)",
+            thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78.jpg"
         )
     )
 }

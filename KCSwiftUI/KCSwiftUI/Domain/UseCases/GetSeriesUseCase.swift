@@ -1,7 +1,7 @@
 import Foundation
 
 protocol GetSeriesUseCaseProtocol {
-    func run(characterIdentifier: Int) async throws -> [Serie]
+    func run(characterIdentifier: Int) async throws -> [KCSerie]
 }
 
 final class GetSeriesUseCase: GetSeriesUseCaseProtocol {
@@ -11,7 +11,7 @@ final class GetSeriesUseCase: GetSeriesUseCaseProtocol {
         self.charactersRepository = charactersRepository
     }
     
-    func run(characterIdentifier: Int) async throws -> [Serie] {
+    func run(characterIdentifier: Int) async throws -> [KCSerie] {
         try await charactersRepository.getSeries(characterIdentifier: characterIdentifier)
     }
 }

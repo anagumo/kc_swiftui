@@ -2,19 +2,32 @@ import SwiftUI
 
 struct CharactersView: View {
     @State var charactersViewModel: CharactersViewModel
+    @State private var itemSelected: KCCharacter?
     
     var body: some View {
         NavigationStack {
-            switch charactersViewModel.charactersViewState {
+            switch charactersViewModel.characterViewState {
             case .none:
                 Text("Nothing to show")
             case .loading:
                 LoadingView()
             case .loaded:
                 List(charactersViewModel.characters, id: \.id) { item in
-                    CharacterView(character: item)
+                    Button {
+                        itemSelected = item
+                    } label: {
+                        CharacterView(character: item)
+                    }
                 }
                 .navigationTitle("Marvel Characters")
+                .sheet(item: $itemSelected) { item in
+                    SeriesView(
+                        seriesViewModel: SeriesViewModel(
+                            characterIdentifier: item.id,
+                            getSeriesUseCase: GetSeriesUseCase()
+                        )
+                    )
+                }
             case .empty:
                 EmptyView(onTryAgain: {
                     charactersViewModel.load()

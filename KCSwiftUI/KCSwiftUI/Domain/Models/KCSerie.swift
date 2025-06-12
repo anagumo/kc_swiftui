@@ -1,6 +1,6 @@
 import Foundation
 
-struct Serie {
+struct KCSerie {
     let id: Int
     let title: String
     let description: String?

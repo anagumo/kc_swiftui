@@ -14,7 +14,7 @@ final class APISession: APISessionContract {
     }
     
     func request<URLRequest>(_ request: URLRequest) async throws -> URLRequest.Response where URLRequest : URLRequestComponents {
-        var urlRequest = try URLRequestBuilder(urlRequestComponents: request).build()
+        let urlRequest = try URLRequestBuilder(urlRequestComponents: request).build()
         
         let (data, response) = try await urlSession.data(for: urlRequest)
         let statusCode = (response as? HTTPURLResponse)?.statusCode
@@ -30,7 +30,7 @@ final class APISession: APISessionContract {
                 let response = try JSONDecoder().decode(URLRequest.Response.self, from: data)
                 return response
             } catch {
-                Logger.log("Failed to decoding from data", level: .error, layer: .infraestructure)
+                Logger.log("Failed to decoding from data: \(error)", level: .error, layer: .infraestructure)
                 throw APIError.decoding(url: request.path)
             }
         default:
