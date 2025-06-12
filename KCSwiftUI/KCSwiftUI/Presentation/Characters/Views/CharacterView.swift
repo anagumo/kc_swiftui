@@ -4,13 +4,11 @@ struct CharacterView: View {
     var character: Character
     
     var body: some View {
-        ZStack {
-            AsyncImage(url: URL(string: character.thumbnail ?? "")) { image in
-                image
-                    .image?
+        ZStack() {
+            AsyncImage(url: URL(string: character.thumbnail ?? "")) { phase in
+                phase.image?
                     .resizable()
                     .aspectRatio(contentMode: .fill)
-                    .frame(height: 200)
                     .clipped()
             }
             .overlay {
@@ -24,6 +22,8 @@ struct CharacterView: View {
                 .foregroundStyle(.marvelPrimaryText)
                 
         }
+        .frame(maxWidth: .infinity, minHeight: 200, maxHeight: 200)
+        .background(.marvelPlaceholder)
         .cornerRadius(12)
     }
 }

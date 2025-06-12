@@ -10,7 +10,8 @@ struct GetCharactersURLRequest: URLRequestComponents {
         queryParameters = [
             "ts": APIConstants.ts,
             "apikey": APIConstants.publicKey,
-            "hash": APIConstants.hash
+            "hash": APIConstants.hash,
+            "orderBy": "modified"
         ]
     }
 }
