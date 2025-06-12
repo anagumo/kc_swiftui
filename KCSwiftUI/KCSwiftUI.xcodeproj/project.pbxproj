@@ -6,7 +6,18 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		C339C8632DFB801400FFF617 /* KCSwiftUIForWatch Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = C339C8562DFB801200FFF617 /* KCSwiftUIForWatch Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
+		C339C8612DFB801400FFF617 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C37089C82DF7B989007D9EB0 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C339C8552DFB801200FFF617;
+			remoteInfo = "KCSwiftUIForWatch Watch App";
+		};
 		C3708B0D2DF8D5BC007D9EB0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = C37089C82DF7B989007D9EB0 /* Project object */;
@@ -16,12 +27,68 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		C339C8672DFB801400FFF617 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				C339C8632DFB801400FFF617 /* KCSwiftUIForWatch Watch App.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		C339C8562DFB801200FFF617 /* KCSwiftUIForWatch Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "KCSwiftUIForWatch Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C37089D02DF7B989007D9EB0 /* KCSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3708B092DF8D5BB007D9EB0 /* KCSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KCSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		C339C88A2DFB823100FFF617 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUIForWatch Watch App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Domain/Models/KCCharacter.swift,
+				Domain/Models/KCSerie.swift,
+				Domain/UseCases/GetCharactersUseCase.swift,
+				Domain/UseCases/GetSeriesUseCase.swift,
+				Infraestructure/Loggin/LoginExtended.swift,
+				Infraestructure/Networking/APIError.swift,
+				Infraestructure/Networking/APISession.swift,
+				Infraestructure/Networking/HTTPMethod.swift,
+				Infraestructure/Networking/Models/CharacterDTO.swift,
+				Infraestructure/Networking/Models/MarvelModels.swift,
+				Infraestructure/Networking/Models/SerieDTO.swift,
+				Infraestructure/Networking/Requests/GetCharactersURLRequest.swift,
+				Infraestructure/Networking/Requests/GetSeriesURLRequest.swift,
+				Infraestructure/Networking/URLRequestBuilder.swift,
+				Infraestructure/Networking/URLRequestComponents.swift,
+				Presentation/Characters/ViewModel/CharactersViewModel.swift,
+				Presentation/Characters/Views/CharactersView.swift,
+				Presentation/Characters/Views/CharacterView.swift,
+				Presentation/CustomViews/EmptyView.swift,
+				Presentation/CustomViews/LoadingView.swift,
+				Presentation/PresentationError.swift,
+				Presentation/Series/ViewModel/SeriesViewModel.swift,
+				Presentation/Series/Views/SeriesView.swift,
+				Presentation/Series/Views/SerieView.swift,
+				Project/Assets.xcassets,
+				Repository/CharactersRepository.swift,
+				Repository/Mappers/CharacterDTOtoDomainMapper.swift,
+				Repository/Mappers/SerieDTOToDomainMapper.swift,
+			);
+			target = C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */;
+		};
+		C339C8A72DFB834E00FFF617 /* Exceptions for "KCSwiftUIForWatch Watch App" folder in "KCSwiftUIForWatch Watch App" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"KCSwiftUIForWatch-Watch-App-Info.plist",
+			);
+			target = C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */;
+		};
 		C3708D8E2DFA2EE5007D9EB0 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUI" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
@@ -32,10 +99,19 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		C339C8572DFB801200FFF617 /* KCSwiftUIForWatch Watch App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				C339C8A72DFB834E00FFF617 /* Exceptions for "KCSwiftUIForWatch Watch App" folder in "KCSwiftUIForWatch Watch App" target */,
+			);
+			path = "KCSwiftUIForWatch Watch App";
+			sourceTree = "<group>";
+		};
 		C37089D22DF7B989007D9EB0 /* KCSwiftUI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				C3708D8E2DFA2EE5007D9EB0 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUI" target */,
+				C339C88A2DFB823100FFF617 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUIForWatch Watch App" target */,
 			);
 			path = KCSwiftUI;
 			sourceTree = "<group>";
@@ -48,6 +124,13 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		C339C8532DFB801200FFF617 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		C37089CD2DF7B989007D9EB0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -70,6 +153,7 @@
 			children = (
 				C37089D22DF7B989007D9EB0 /* KCSwiftUI */,
 				C3708B0A2DF8D5BB007D9EB0 /* KCSwiftUITests */,
+				C339C8572DFB801200FFF617 /* KCSwiftUIForWatch Watch App */,
 				C37089D12DF7B989007D9EB0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -79,6 +163,7 @@
 			children = (
 				C37089D02DF7B989007D9EB0 /* KCSwiftUI.app */,
 				C3708B092DF8D5BB007D9EB0 /* KCSwiftUITests.xctest */,
+				C339C8562DFB801200FFF617 /* KCSwiftUIForWatch Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -86,6 +171,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C339C8642DFB801400FFF617 /* Build configuration list for PBXNativeTarget "KCSwiftUIForWatch Watch App" */;
+			buildPhases = (
+				C339C8522DFB801200FFF617 /* Sources */,
+				C339C8532DFB801200FFF617 /* Frameworks */,
+				C339C8542DFB801200FFF617 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				C339C8572DFB801200FFF617 /* KCSwiftUIForWatch Watch App */,
+			);
+			name = "KCSwiftUIForWatch Watch App";
+			packageProductDependencies = (
+			);
+			productName = "KCSwiftUIForWatch Watch App";
+			productReference = C339C8562DFB801200FFF617 /* KCSwiftUIForWatch Watch App.app */;
+			productType = "com.apple.product-type.application";
+		};
 		C37089CF2DF7B989007D9EB0 /* KCSwiftUI */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = C37089DF2DF7B98A007D9EB0 /* Build configuration list for PBXNativeTarget "KCSwiftUI" */;
@@ -93,10 +200,12 @@
 				C37089CC2DF7B989007D9EB0 /* Sources */,
 				C37089CD2DF7B989007D9EB0 /* Frameworks */,
 				C37089CE2DF7B989007D9EB0 /* Resources */,
+				C339C8672DFB801400FFF617 /* Embed Watch Content */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				C339C8622DFB801400FFF617 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				C37089D22DF7B989007D9EB0 /* KCSwiftUI */,
@@ -141,6 +250,9 @@
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
+					C339C8552DFB801200FFF617 = {
+						CreatedOnToolsVersion = 16.2;
+					};
 					C37089CF2DF7B989007D9EB0 = {
 						CreatedOnToolsVersion = 16.2;
 					};
@@ -166,11 +278,19 @@
 			targets = (
 				C37089CF2DF7B989007D9EB0 /* KCSwiftUI */,
 				C3708B082DF8D5BB007D9EB0 /* KCSwiftUITests */,
+				C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		C339C8542DFB801200FFF617 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		C37089CE2DF7B989007D9EB0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -188,6 +308,13 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		C339C8522DFB801200FFF617 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		C37089CC2DF7B989007D9EB0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -205,6 +332,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		C339C8622DFB801400FFF617 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */;
+			targetProxy = C339C8612DFB801400FFF617 /* PBXContainerItemProxy */;
+		};
 		C3708B0E2DF8D5BC007D9EB0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = C37089CF2DF7B989007D9EB0 /* KCSwiftUI */;
@@ -213,6 +345,71 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		C339C8652DFB801400FFF617 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"KCSwiftUIForWatch Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = WT5C6TTJP5;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "KCSwiftUIForWatch-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = KCSwiftUIForWatch;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.github.anagumo.KCSwiftUI;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.github.anagumo.KCSwiftUI.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Debug;
+		};
+		C339C8662DFB801400FFF617 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"KCSwiftUIForWatch Watch App/Preview Content\"";
+				DEVELOPMENT_TEAM = WT5C6TTJP5;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "KCSwiftUIForWatch-Watch-App-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = KCSwiftUIForWatch;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.github.anagumo.KCSwiftUI;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.github.anagumo.KCSwiftUI.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				VALIDATE_PRODUCT = YES;
+				WATCHOS_DEPLOYMENT_TARGET = 11.2;
+			};
+			name = Release;
+		};
 		C37089DD2DF7B98A007D9EB0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -463,6 +660,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		C339C8642DFB801400FFF617 /* Build configuration list for PBXNativeTarget "KCSwiftUIForWatch Watch App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C339C8652DFB801400FFF617 /* Debug */,
+				C339C8662DFB801400FFF617 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		C37089CB2DF7B989007D9EB0 /* Build configuration list for PBXProject "KCSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

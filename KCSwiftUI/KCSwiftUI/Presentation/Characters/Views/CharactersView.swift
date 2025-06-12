@@ -19,7 +19,9 @@ struct CharactersView: View {
                         CharacterView(character: item)
                     }
                 }
+                #if os(iOS)
                 .navigationTitle("Marvel Characters")
+                #endif
                 .sheet(item: $itemSelected) { item in
                     SeriesView(
                         seriesViewModel: SeriesViewModel(

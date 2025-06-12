@@ -8,7 +8,11 @@ struct SerieView: View {
             AsyncImage(url: URL(string: serie.thumbnail ?? "")) { phase in
                 phase.image?
                     .resizable()
+                    #if os(iOS)
                     .frame(maxWidth: .infinity, maxHeight: 500)
+                    #elseif os(watchOS)
+                    .frame(maxWidth: .infinity, maxHeight: 150)
+                    #endif
                     .clipped()
             }
             .overlay {
@@ -18,7 +22,11 @@ struct SerieView: View {
                         .opacity(0.5)
                     Text(serie.title)
                         .padding()
+                        #if os(iOS)
                         .font(.title2)
+                        #elseif os(watchOS)
+                        .font(.title3)
+                        #endif
                         .fontWeight(.semibold)
                         .foregroundStyle(.marvelPrimaryText)
                 }
@@ -27,11 +35,19 @@ struct SerieView: View {
             if let description = serie.description {
                 Text(description)
                     .padding(8)
+                    #if os(iOS)
                     .font(.body)
+                    #elseif os(watchOS)
+                    .font(.caption)
+                    #endif
                     .foregroundStyle(.marvelPrimaryText)
             }
         }
+        #if os(iOS)
         .frame(maxWidth: .infinity, minHeight: 500)
+        #elseif os(watchOS)
+        .frame(maxWidth: .infinity, minHeight: 150)
+        #endif
         .background(.marvelPlaceholder)
         .cornerRadius(12)
     }

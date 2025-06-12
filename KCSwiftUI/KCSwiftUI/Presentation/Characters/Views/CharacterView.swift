@@ -8,17 +8,30 @@ struct CharacterView: View {
             AsyncImage(url: URL(string: character.thumbnail ?? "")) { phase in
                 phase.image?
                     .resizable()
+                    #if os(iOS)
                     .frame(maxWidth: .infinity, maxHeight: 250)
+                    #elseif os(watchOS)
+                    .frame(maxWidth: .infinity, maxHeight: 120)
+                    #endif
                     .clipped()
             }
             Text(character.name)
-                .padding(8)
+                
+                #if os(iOS)
                 .font(.title2)
+                #elseif os(watchOS)
+                .font(.caption)
+                #endif
                 .fontWeight(.semibold)
                 .foregroundStyle(.marvelPrimaryText)
                 
         }
+        #if os(iOS)
         .frame(maxWidth: .infinity, minHeight: 250)
+        #elseif os(watchOS)
+        .frame(maxWidth: .infinity, minHeight: 120)
+        #endif
+        .padding(8)
         .background(.marvelPlaceholder)
         .cornerRadius(12)
     }
