@@ -12,20 +12,24 @@ enum CharacterViewState {
     
     init(getCharactersUseCase: GetCharactersUseCaseProtocol) {
         characterViewState = .none
+        print("none")
         characters = []
         self.getCharactersUseCase = getCharactersUseCase
     }
     
     func load() {
         characterViewState = .loading
+        print("loading")
         
-        Task {
+        Task { @MainActor in
             do {
                 let characters = try await getCharactersUseCase.run()
                 self.characters = characters
                 characterViewState = .loaded
+                print("loaded")
             } catch _ as PresentationError {
                 characterViewState = .empty
+                print("empty")
             }
         }
     }
