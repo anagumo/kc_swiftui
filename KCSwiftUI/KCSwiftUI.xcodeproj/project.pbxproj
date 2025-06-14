@@ -51,8 +51,7 @@
 		C339C88A2DFB823100FFF617 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUIForWatch Watch App" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Domain/Models/KCCharacter.swift,
-				Domain/Models/KCSerie.swift,
+				Domain/Models/SerieModel.swift,
 				Domain/UseCases/GetCharactersUseCase.swift,
 				Domain/UseCases/GetSeriesUseCase.swift,
 				Infraestructure/Loggin/LoginExtended.swift,

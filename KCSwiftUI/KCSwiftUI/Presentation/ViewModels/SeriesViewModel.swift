@@ -9,7 +9,7 @@ enum SerieViewState {
     private let getSeriesUseCase: GetSeriesUseCaseProtocol
     var characterIdentifier: Int
     var serieViewState: SerieViewState
-    var series: [KCSerie]
+    var series: [SerieModel]
     
     init(characterIdentifier: Int,
          getSeriesUseCase: GetSeriesUseCaseProtocol = GetSeriesUseCase()) {

@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct SerieView: View {
-    var serie: KCSerie
+    var serie: SerieModel
     
     var body: some View {
         VStack {
@@ -55,7 +55,7 @@ struct SerieView: View {
 
 #Preview {
     SerieView(
-        serie: KCSerie(
+        serie: SerieModel(
             id: 1009571,
             title: "X-Men (1991 - 2001)",
             description: "An exciting era for Marvel's mutants begin! With a larger team roster than ever before, the X-Men face familiar foes like Magneto, new opponents like Omega Red, and monumental threats including Onslaught and Operation: Zero Tolerance in their 90's exploits!",

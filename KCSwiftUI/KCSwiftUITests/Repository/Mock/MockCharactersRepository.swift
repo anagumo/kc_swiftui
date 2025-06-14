@@ -2,10 +2,10 @@ import XCTest
 @testable import KCSwiftUI
 
 final class MockCharactersRepository: CharactersRepositoryProtocol {
-    var receivedCharacters: [KCCharacter]?
-    var receivedSeries: [KCSerie]?
+    var receivedCharacters: [CharcterModel]?
+    var receivedSeries: [SerieModel]?
     
-    func getAll() async throws -> [KCSwiftUI.KCCharacter] {
+    func getAll() async throws -> [KCSwiftUI.CharcterModel] {
         guard let receivedCharacters else {
             throw PresentationError.network("No data received")
         }
@@ -17,7 +17,7 @@ final class MockCharactersRepository: CharactersRepositoryProtocol {
         return receivedCharacters
     }
     
-    func getSeries(characterIdentifier: Int) async throws -> [KCSwiftUI.KCSerie] {
+    func getSeries(characterIdentifier: Int) async throws -> [KCSwiftUI.SerieModel] {
         guard let receivedSeries else {
             throw PresentationError.network("No data received")
         }

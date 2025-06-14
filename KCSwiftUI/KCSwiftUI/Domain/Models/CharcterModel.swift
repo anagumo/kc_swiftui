@@ -1,6 +1,6 @@
 import Foundation
 
-struct KCCharacter: Identifiable {
+struct CharcterModel: Identifiable {
     let id: Int
     let name: String
     let thumbnail: String?

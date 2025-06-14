@@ -1,7 +1,7 @@
 import Foundation
 
 protocol GetCharactersUseCaseProtocol {
-    func run() async throws -> [KCCharacter]
+    func run() async throws -> [CharcterModel]
 }
 
 final class GetCharactersUseCase: GetCharactersUseCaseProtocol {
@@ -11,7 +11,7 @@ final class GetCharactersUseCase: GetCharactersUseCaseProtocol {
         self.charactersRepository = charactersRepository
     }
     
-    func run() async throws -> [KCCharacter] {
+    func run() async throws -> [CharcterModel] {
         try await charactersRepository.getAll()
     }
 }

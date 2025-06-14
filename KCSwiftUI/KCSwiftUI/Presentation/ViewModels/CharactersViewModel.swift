@@ -8,7 +8,7 @@ enum CharacterViewState {
 @Observable final class CharactersViewModel {
     private let getCharactersUseCase: GetCharactersUseCaseProtocol
     var characterViewState: CharacterViewState
-    var characters: [KCCharacter]
+    var characters: [CharcterModel]
     
     init(getCharactersUseCase: GetCharactersUseCaseProtocol = GetCharactersUseCase()) {
         characters = []
