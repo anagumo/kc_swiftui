@@ -32,7 +32,7 @@ final class CharactersViewModelTests: XCTestCase {
         XCTAssertEqual(firstResult.name, "Agent Zero")
     }
     
-    func testLoadcharacters_WhenStateIsEmpty() async throws {
+    func testLoadCharacters_WhenStateIsEmpty() async throws {
         // Given
         mockGetCharactersUseCase.receivedCharacters = nil
         
