@@ -41,7 +41,7 @@ final class APISession: APISessionContract {
 }
 
 enum APIConstants {
-    static let ts: String = ""
-    static let publicKey: String = ""
-    static let hash: String = ""
+    static let ts: String = "1749500471"
+    static let publicKey: String = "02b356094265fecd8d598b831cbfa712"
+    static let hash: String = "e551e2cf8ae7bf05da942cb180f3145b"
 }

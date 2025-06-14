@@ -2,7 +2,7 @@ import SwiftUI
 
 @main
 struct KCSwiftUIForWatch_Watch_AppApp: App {
-    @Environment(AppStateViewModel.self) var appState
+    @State var appState = AppStateViewModel()
     
     var body: some Scene {
         WindowGroup {
