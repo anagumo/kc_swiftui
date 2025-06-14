@@ -2,13 +2,12 @@ import SwiftUI
 
 @main
 struct KCSwiftUIApp: App {
+    @State var appState = AppStateViewModel()
+    
     var body: some Scene {
         WindowGroup {
-            CharactersView(
-                charactersViewModel: CharactersViewModel(
-                    getCharactersUseCase: GetCharactersUseCase()
-                )
-            )
+            RootView()
+                .environment(appState)
         }
     }
 }

@@ -4,6 +4,10 @@ struct CharactersView: View {
     @State var charactersViewModel: CharactersViewModel
     @State private var itemSelected: KCCharacter?
     
+    init(charactersViewModel: CharactersViewModel = CharactersViewModel()) {
+        self.charactersViewModel = charactersViewModel
+    }
+    
     var body: some View {
         NavigationStack {
             switch charactersViewModel.characterViewState {
@@ -25,8 +29,7 @@ struct CharactersView: View {
                 .sheet(item: $itemSelected) { item in
                     SeriesView(
                         seriesViewModel: SeriesViewModel(
-                            characterIdentifier: item.id,
-                            getSeriesUseCase: GetSeriesUseCase()
+                            characterIdentifier: item.id
                         )
                     )
                 }
@@ -43,9 +46,5 @@ struct CharactersView: View {
 }
 
 #Preview {
-    CharactersView(
-        charactersViewModel: CharactersViewModel(
-            getCharactersUseCase: GetCharactersUseCase()
-        )
-    )
+    CharactersView()
 }

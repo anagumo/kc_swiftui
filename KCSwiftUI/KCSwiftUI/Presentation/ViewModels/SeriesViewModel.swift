@@ -12,7 +12,7 @@ enum SerieViewState {
     var series: [KCSerie]
     
     init(characterIdentifier: Int,
-         getSeriesUseCase: GetSeriesUseCaseProtocol) {
+         getSeriesUseCase: GetSeriesUseCaseProtocol = GetSeriesUseCase()) {
         self.characterIdentifier = characterIdentifier
         serieViewState = .none
         series = []

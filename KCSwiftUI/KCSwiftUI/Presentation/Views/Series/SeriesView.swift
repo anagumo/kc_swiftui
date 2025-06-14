@@ -3,6 +3,10 @@ import SwiftUI
 struct SeriesView: View {
     @State var seriesViewModel: SeriesViewModel
     
+    init(seriesViewModel: SeriesViewModel) {
+        self.seriesViewModel = seriesViewModel
+    }
+    
     var body: some View {
         NavigationStack {
             switch seriesViewModel.serieViewState {
@@ -30,8 +34,7 @@ struct SeriesView: View {
 #Preview {
     SeriesView(
         seriesViewModel: SeriesViewModel(
-            characterIdentifier: 1009571,
-            getSeriesUseCase: GetSeriesUseCase()
+            characterIdentifier: 1009571
         )
     )
 }
