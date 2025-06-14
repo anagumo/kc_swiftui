@@ -1,7 +1,7 @@
 import Foundation
 
 protocol CharactersRepositoryProtocol {
-    func getAll() async throws -> [CharcterModel]
+    func getAll() async throws -> [CharacterModel]
     func getSeries(characterIdentifier: Int) async throws -> [SerieModel]
 }
 
@@ -13,7 +13,7 @@ final class CharactersRepository: CharactersRepositoryProtocol {
         self.apiSession = apiSession
     }
     
-    func getAll() async throws -> [CharcterModel] {
+    func getAll() async throws -> [CharacterModel] {
         let characters = try await apiSession.request(
             GetCharactersURLRequest()
         ).data.results

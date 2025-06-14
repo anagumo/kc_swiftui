@@ -2,7 +2,7 @@ import SwiftUI
 
 struct CharactersView: View {
     @State var charactersViewModel: CharactersViewModel
-    @State private var itemSelected: CharcterModel?
+    @State private var itemSelected: CharacterModel?
     
     init(charactersViewModel: CharactersViewModel = CharactersViewModel()) {
         self.charactersViewModel = charactersViewModel

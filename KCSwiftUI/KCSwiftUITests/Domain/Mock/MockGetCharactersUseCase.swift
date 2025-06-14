@@ -2,9 +2,9 @@ import XCTest
 @testable import KCSwiftUI
 
 final class MockGetCharactersUseCase: GetCharactersUseCaseProtocol {
-    var receivedCharacters: [CharcterModel]?
+    var receivedCharacters: [CharacterModel]?
     
-    func run() async throws -> [KCSwiftUI.CharcterModel] {
+    func run() async throws -> [KCSwiftUI.CharacterModel] {
         guard let receivedCharacters else {
             throw PresentationError.emptyList()
         }

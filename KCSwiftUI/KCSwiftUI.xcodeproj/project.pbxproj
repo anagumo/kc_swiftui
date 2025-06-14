@@ -51,6 +51,7 @@
 		C339C88A2DFB823100FFF617 /* Exceptions for "KCSwiftUI" folder in "KCSwiftUIForWatch Watch App" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				Domain/Models/CharacterModel.swift,
 				Domain/Models/SerieModel.swift,
 				Domain/UseCases/GetCharactersUseCase.swift,
 				Domain/UseCases/GetSeriesUseCase.swift,
@@ -73,19 +74,13 @@
 				Presentation/Views/Characters/CharacterView.swift,
 				Presentation/Views/Custom/EmptyView.swift,
 				Presentation/Views/Custom/LoadingView.swift,
+				Presentation/Views/RootView.swift,
 				Presentation/Views/Series/SeriesView.swift,
 				Presentation/Views/Series/SerieView.swift,
 				Project/Assets.xcassets,
 				Repository/CharactersRepository.swift,
 				Repository/Mappers/CharacterDTOtoDomainMapper.swift,
 				Repository/Mappers/SerieDTOToDomainMapper.swift,
-			);
-			target = C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */;
-		};
-		C339C8A72DFB834E00FFF617 /* Exceptions for "KCSwiftUIForWatch Watch App" folder in "KCSwiftUIForWatch Watch App" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"KCSwiftUIForWatch-Watch-App-Info.plist",
 			);
 			target = C339C8552DFB801200FFF617 /* KCSwiftUIForWatch Watch App */;
 		};
@@ -101,9 +96,6 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		C339C8572DFB801200FFF617 /* KCSwiftUIForWatch Watch App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				C339C8A72DFB834E00FFF617 /* Exceptions for "KCSwiftUIForWatch Watch App" folder in "KCSwiftUIForWatch Watch App" target */,
-			);
 			path = "KCSwiftUIForWatch Watch App";
 			sourceTree = "<group>";
 		};

@@ -3,27 +3,27 @@ import Foundation
 
 enum DomainData {
     static let givenCharacterList = [
-        CharcterModel(
+        CharacterModel(
             id:1009150,
             name: "Agent Zero",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790.jpg"
         ),
-        CharcterModel(
+        CharacterModel(
             id:1009203,
             name: "Bloodscream",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/6/e0/4c7c647c3f069"
         ),
-        CharcterModel(
+        CharacterModel(
             id:1009206,
             name: "Box",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/9/e0/4ce59ef63362d.jpg"
         ),
-        CharcterModel(
+        CharacterModel(
             id:1009178,
             name: "Beef",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708.jpg"
         ),
-        CharcterModel(
+        CharacterModel(
             id:1009177,
             name: "Bedlam",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"

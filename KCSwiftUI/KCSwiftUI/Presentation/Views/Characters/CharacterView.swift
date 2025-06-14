@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct CharacterView: View {
-    var character: CharcterModel
+    var character: CharacterModel
     
     var body: some View {
         VStack {
@@ -39,7 +39,7 @@ struct CharacterView: View {
 
 #Preview {
     CharacterView(
-        character: CharcterModel(
+        character: CharacterModel(
             id: 1009571,
             name: "Sentry (Robert Reynolds)",
             thumbnail: "http://i.annihil.us/u/prod/marvel/i/mg/f/03/52695b1392c78.jpg"
