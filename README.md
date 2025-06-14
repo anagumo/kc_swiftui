@@ -16,8 +16,12 @@
 ![](Images/sequence_diagram.png)
 
 ## Screenshots
+| Logo |
+|--------|
+| <img src="Images/logo.png" width="660"/>|
+
 | Characters | Series |
-|--------|--------|
+|--------|-------|
 | <img src="Images/characters.png" width="400"/>  | <img src="Images/series.png" width="400"/> |
 
 ## 🍻Testing
